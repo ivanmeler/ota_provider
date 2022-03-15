@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": "1647344485",
+      "filename": "lineage-17.1-20220315-UNOFFICIAL-herolte.zip",
+      "id": "4a9abf041a802cacb80ad3f0aef10b6167eeb7e8b4737ba516b0a0b64f0b1bdc",
+      "romtype": "UNOFFICIAL",
+      "size": "619025867",
+      "url": "https://github.com/ivanmeler/ota_provider/releases/download/herolte_lineage-17.1_1647344485/lineage-17.1-20220315-UNOFFICIAL-herolte.zip",
+      "version": "17.1"
+    }
+  ]
+}
