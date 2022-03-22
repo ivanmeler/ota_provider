@@ -1,3 +1,14 @@
+22.03.2022.
+ - Added back configurable audio volume panel location
+ - Speed up unlock with fingerprint
+ - Updated a lot of apps to MaterialYou design language
+ - Improved stability of ADB connection
+ - Implemented new LineageOS setupwizard
+ - Cleaned up device tree and list of required patches
+ - Stability and performance improvements
+ - Pointed Changelog url in updater app to new page
+ - Synced with LineageOS source
+
 14.03.2022. 
  - Fixed issue with keystore where apps would crash when invoking it (Security related apps mostly like signal and a lot of work apps)
  - Officially rebranded as 19.1 
