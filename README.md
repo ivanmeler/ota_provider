@@ -1,3 +1,5 @@
+## Please use [https://ivanmeler.github.io](https://ivanmeler.github.io) to grab latest release, this is just a backend
+
 Simple automated LineageOS OTA provider 
 Uses github releases for hosting and requires no extra server
 
