@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1648719877",
-      "filename": "lineage-19.1-20220331-UNOFFICIAL-dream2lte.zip",
-      "id": "959e06f02fb5be88366fdd412161cf46a919288b839f154a7b670e196b33238f",
+      "datetime": "1649267832",
+      "filename": "lineage-19.1-20220406-UNOFFICIAL-dream2lte.zip",
+      "id": "5c5a64000cfa2b94a6273fe66ef49b0b6aa7b737f1e7446064013850f8aaaae5",
       "romtype": "UNOFFICIAL",
-      "size": "741855989",
-      "url": "https://github.com/ivanmeler/ota_provider/releases/download/dream2lte_lineage-19.1_1648719877/lineage-19.1-20220331-UNOFFICIAL-dream2lte.zip",
+      "size": "739772119",
+      "url": "https://github.com/ivanmeler/ota_provider/releases/download/dream2lte_lineage-19.1_1649267832/lineage-19.1-20220406-UNOFFICIAL-dream2lte.zip",
       "version": "19.1"
     }
   ]
