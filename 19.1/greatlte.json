@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1654677361",
-      "filename": "lineage-19.1-20220608-UNOFFICIAL-greatlte.zip",
-      "id": "973232c9b387b11ec639acf8ba7bc3b6ea14cb2ec4a6e66dad2a2d227984f4b3",
+      "datetime": "1655928864",
+      "filename": "lineage-19.1-20220622-UNOFFICIAL-greatlte.zip",
+      "id": "1319116ae940fab3ce269baff04fc5b0041dd4d007df587ffc599a381ede5afb",
       "romtype": "UNOFFICIAL",
-      "size": "737199791",
-      "url": "https://github.com/ivanmeler/ota_provider/releases/download/greatlte_lineage-19.1_1654677361/lineage-19.1-20220608-UNOFFICIAL-greatlte.zip",
+      "size": "737331439",
+      "url": "https://github.com/ivanmeler/ota_provider/releases/download/greatlte_lineage-19.1_1655928864/lineage-19.1-20220622-UNOFFICIAL-greatlte.zip",
       "version": "19.1"
     }
   ]
