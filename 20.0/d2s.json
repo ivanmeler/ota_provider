@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1671732603",
-      "filename": "lineage-20.0-20221222-UNOFFICIAL-d2s.zip",
-      "id": "3ae2bdfff7fd7e36de06c4e7848985d57775dace5a6d44ee58130d5966bd20e5",
+      "datetime": "1671868088",
+      "filename": "lineage-20.0-20221224-UNOFFICIAL-d2s.zip",
+      "id": "23f0840c067ea405b9adbc6d8aec426b1704496a0514f2fad5b63e70b6ec5118",
       "romtype": "UNOFFICIAL",
-      "size": "875924641",
-      "url": "https://github.com/ivanmeler/ota_provider/releases/download/d2s_lineage-20.0_1671732603/lineage-20.0-20221222-UNOFFICIAL-d2s.zip",
+      "size": "875778470",
+      "url": "https://github.com/ivanmeler/ota_provider/releases/download/d2s_lineage-20.0_1671868088/lineage-20.0-20221224-UNOFFICIAL-d2s.zip",
       "version": "20.0"
     }
   ]
