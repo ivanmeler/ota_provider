@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": "1671869855",
+      "filename": "lineage-20.0-20221224-UNOFFICIAL-d1.zip",
+      "id": "78ac32317fc2a000ebac9b3471b71aff291fb5a4597a99b59bfdfc33af117e7a",
+      "romtype": "UNOFFICIAL",
+      "size": "870141991",
+      "url": "https://github.com/ivanmeler/ota_provider/releases/download/d1_lineage-20.0_1671869855/lineage-20.0-20221224-UNOFFICIAL-d1.zip",
+      "version": "20.0"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": "1671878077",
+      "filename": "lineage-20.0-20221224-UNOFFICIAL-beyondx.zip",
+      "id": "100491a3eb418597921819d1b092b8e6a49f7993fea7fe22a59f913c084666e4",
+      "romtype": "UNOFFICIAL",
+      "size": "864595785",
+      "url": "https://github.com/ivanmeler/ota_provider/releases/download/beyondx_lineage-20.0_1671878077/lineage-20.0-20221224-UNOFFICIAL-beyondx.zip",
+      "version": "20.0"
+    }
+  ]
+}

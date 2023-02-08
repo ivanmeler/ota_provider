@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": "1671873993",
+      "filename": "lineage-20.0-20221224-UNOFFICIAL-beyond1lte.zip",
+      "id": "da102275925427cc87d98152c5e2c97c6b0e81396f0a619739fd6aa74f59a801",
+      "romtype": "UNOFFICIAL",
+      "size": "863902375",
+      "url": "https://github.com/ivanmeler/ota_provider/releases/download/beyond1lte_lineage-20.0_1671873993/lineage-20.0-20221224-UNOFFICIAL-beyond1lte.zip",
+      "version": "20.0"
+    }
+  ]
+}
