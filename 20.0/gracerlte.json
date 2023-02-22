@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1676991669",
-      "filename": "lineage-20.0-20230221-UNOFFICIAL-gracerlte.zip",
-      "id": "9cc3fe8b2bf8687f857102172968c3e46c403a42b0abec3d078a0161ced3333d",
+      "datetime": "1677067430",
+      "filename": "lineage-20.0-20230222-UNOFFICIAL-gracerlte.zip",
+      "id": "0183259584221e6427f8c3231d30eabaa220290bc26007571419c2904aa6623e",
       "romtype": "UNOFFICIAL",
-      "size": "736129094",
-      "url": "https://github.com/ivanmeler/ota_provider/releases/download/gracerlte_lineage-20.0_1676991669/lineage-20.0-20230221-UNOFFICIAL-gracerlte.zip",
+      "size": "736106398",
+      "url": "https://github.com/ivanmeler/ota_provider/releases/download/gracerlte_lineage-20.0_1677067430/lineage-20.0-20230222-UNOFFICIAL-gracerlte.zip",
       "version": "20.0"
     }
   ]
