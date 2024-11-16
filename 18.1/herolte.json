@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1729422177",
-      "filename": "lineage-18.1-20241020-UNOFFICIAL-herolte.zip",
-      "id": "e81d69a3b31cb222bed1a66078bd1d05224ae873cdb95b5f0987011f176d98b3",
+      "datetime": "1731690439",
+      "filename": "lineage-18.1-20241115-UNOFFICIAL-herolte.zip",
+      "id": "7ef9bebf1c1278b2f43028028c4eefec8f3fb67dbe9f6f431ba2eb45fe4856f4",
       "romtype": "UNOFFICIAL",
-      "size": "680441065",
-      "url": "https://github.com/ivanmeler/ota_provider/releases/download/herolte_lineage-18.1_1729422177/lineage-18.1-20241020-UNOFFICIAL-herolte.zip",
+      "size": "680360218",
+      "url": "https://github.com/ivanmeler/ota_provider/releases/download/herolte_lineage-18.1_1731690439/lineage-18.1-20241115-UNOFFICIAL-herolte.zip",
       "version": "18.1"
     }
   ]
