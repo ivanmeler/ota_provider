@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1737393931",
-      "filename": "lineage-19.1-20250120-UNOFFICIAL-hero2lte.zip",
-      "id": "f0c8247a6a962fec5adf655c20fb1f2a1851d91cab5373a5d3f96821f587acc6",
+      "datetime": "1740323981",
+      "filename": "lineage-19.1-20250223-UNOFFICIAL-hero2lte.zip",
+      "id": "79f009e5ada30bb1eea1f41345a443fa57df767689322c4d55cf6ce177c631bd",
       "romtype": "UNOFFICIAL",
-      "size": "735730745",
-      "url": "https://github.com/ivanmeler/ota_provider/releases/download/hero2lte_lineage-19.1_1737393931/lineage-19.1-20250120-UNOFFICIAL-hero2lte.zip",
+      "size": "735477043",
+      "url": "https://github.com/ivanmeler/ota_provider/releases/download/hero2lte_lineage-19.1_1740323981/lineage-19.1-20250223-UNOFFICIAL-hero2lte.zip",
       "version": "19.1"
     }
   ]
