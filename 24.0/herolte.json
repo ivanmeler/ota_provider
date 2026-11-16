@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": "1794852142",
+      "filename": "lineage-24.0-20261116-UNOFFICIAL-herolte.zip",
+      "id": "d6f791bef10270f3da250594213b4b2c81bba6467e62bfb368fda2088bb0ddb5",
+      "romtype": "UNOFFICIAL",
+      "size": "1038874862",
+      "url": "https://github.com/ivanmeler/ota_provider/releases/download/herolte_lineage-24.0_1794852142/lineage-24.0-20261116-UNOFFICIAL-herolte.zip",
+      "version": "24.0"
+    }
+  ]
+}
